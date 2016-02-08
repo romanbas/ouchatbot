@@ -1,0 +1,1 @@
+It's basically just a simple chatbot, written to experiment with Google App Engine, Scala, and Google Talk
